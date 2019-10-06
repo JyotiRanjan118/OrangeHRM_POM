@@ -4,9 +4,6 @@
   <test  name="OrangeHRM_Test">
     <classes>
      <class name="com.OHRM.TestCases.LoginPageTest"/>
-      <class name="com.OHRM.TestCases.HomePageTest"/>
-      <class name="com.OHRM.TestCases.EMployeePageTest"/>
-     
     </classes>
   </test>
 </suite> 
